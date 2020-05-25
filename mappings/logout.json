@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/logout"
+    },
+    "response": {
+        "status": 200,
+        "body" : "user  succesfully logged out",
+        "headers":{
+        	"content-type":"application/json"
+        }
+    }
+}

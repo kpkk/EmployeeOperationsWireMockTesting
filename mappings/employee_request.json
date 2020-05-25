@@ -1,0 +1,12 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/employee"
+        
+    },
+    "response": {
+        "status": 201,
+        "statusMessage": "Created",
+        "bodyFileName": "../__files/employee.json"
+}
+}

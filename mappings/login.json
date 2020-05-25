@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/login"
+    },
+    "response": {
+        "status": 200,
+        "body" : "user pradeep has succesfully logged in",
+        "headers":{
+        	"content-type":"application/json"
+        }
+    }
+}

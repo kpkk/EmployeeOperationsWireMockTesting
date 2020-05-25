@@ -1,0 +1,17 @@
+[
+{
+    "employeeId": 1,
+    "employeeName": "pradeep",
+    "department": "IT"
+},
+{
+    "employeeId": 2,
+    "employeeName": "roger",
+    "department": "CS"
+},
+{
+    "employeeId": 3,
+    "employeeName": "rafa",
+    "department": "EC"
+}
+]
